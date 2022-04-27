@@ -6,6 +6,7 @@
 
 ## Improvements/Future features:
 	•	keypress compatibility
+	•       mobile responsiveness
 	•	ability to perform complex operations with parentheses
 	•	code refactoring
 	•       better file naming
